@@ -41,7 +41,7 @@ CSS3：CSS3动画及样式。
 
 #### 注：前端使用ES6的很多新特性，所以NodeJs 必须是6.0稳定版本，我使用的版本是8.9.0
 
-（1）git clone https://github.com/moveondo/FullStack-NodeVue.git
+（1）git clone https://github.com/moveondo/internbackend.git
 
 （2）npm install
 
